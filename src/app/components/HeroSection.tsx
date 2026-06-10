@@ -32,7 +32,7 @@ export function HeroSection() {
       <div className="bg-white rounded-2xl border border-border p-4 shadow-sm flex gap-4 items-center">
         <div className="relative flex-shrink-0">
           <img
-            src="src/app/components/images/instructor.jpeg"
+            src="./images/instructor.jpeg"
             alt="Yog Namaste Academy — Ayurvedic Experts"
             className="w-20 h-20 rounded-xl object-cover bg-gray-100"
           />
